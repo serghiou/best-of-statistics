@@ -1,2 +1,9 @@
-# best-of-statistics
-A collection of good and statistically relevant content I find online.
+# Best of statistics
+
+A collection of interesting and statistically relevant information and content I find online. 
+
+## Notes
+
+* AUC (Area Under the Curve) is the average value of sensitivity for all possible values of specificity.
+
+
