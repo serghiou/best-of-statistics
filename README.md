@@ -10,6 +10,8 @@ A collection of interesting and statistically relevant information and content I
 
 **[Quantile Regression.](https://towardsdatascience.com/an-introduction-to-quantile-regression-eca5e3e2036a)** A useful introduction to quantile regression using SAS, with a note on relevant packages in other languages. 
 
+**[Evaluation of models based on imbalanced data.](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)** This is a quick article suggesting that AUC should only be used for balanced datasets and that models built using imbalanced datasets should be evaluated using precision-recall curves.
+
 ## Notes
 
 * AUC (Area Under the Curve) is the average value of sensitivity for all possible values of specificity.
